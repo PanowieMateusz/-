@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o0b5AAN1g9w80F9UvwP1l8rRK44wZyggBYJQEiI2jzWeO5ozDI2zjF6Q67hXAA3sRM3f3lr7exC61KjG2zOtzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thedc\\Desktop\\mat\\Practice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thedc\\.nuget\\packages\\materialdesigncolors\\2.0.1\\materialdesigncolors.2.0.1.nupkg.sha512",
+    "C:\\Users\\thedc\\.nuget\\packages\\materialdesignthemes\\4.1.0\\materialdesignthemes.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
